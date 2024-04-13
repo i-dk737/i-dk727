@@ -3,10 +3,8 @@
 <h1 align="center">Hi there, I'm Daniel Joseph Khater</h1>
 <h3 align="center">I am a forth year university student.</h3>
 
-- 🔭 I’m currently working vaious projects to add to my CV.
+- 🔭 I’m currently working on vaious projects to add to my CV.
 
 - ⛩  When I'm not programming, I am learning in order to improve both my hard and soft and skills.
 
 - 👨‍💻  I plan on learning more coding languages and aquiring more knowledge in the Computer Science field.
-
-- ⚡ I want to become a game programmer in charge of an independent team.
